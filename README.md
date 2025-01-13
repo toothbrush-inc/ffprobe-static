@@ -1,7 +1,7 @@
-ffprobe-static
+toothbrush-ffprobe-static
 ====
 
-Static binaries for `ffprobe`.
+Static binaries for `ffprobe`. Updated to v7.1 for MacOS
 
 Based on <https://github.com/eugeneware/ffmpeg-static>.
 
