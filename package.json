@@ -1,5 +1,5 @@
 {
-  "name": "ffprobe-static",
+  "name": "toothbrush-ffprobe-static",
   "version": "3.2.0",
   "description": "Static binaries for ffprobe.",
   "main": "index.js",
